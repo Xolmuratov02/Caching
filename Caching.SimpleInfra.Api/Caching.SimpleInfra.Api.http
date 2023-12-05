@@ -1,0 +1,6 @@
+@Caching.SimpleInfra.Api_HostAddress = http://localhost:5216
+
+GET {{Caching.SimpleInfra.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
